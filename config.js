@@ -18,10 +18,10 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6281327441039', '6282230819722']
-global.bsu = ['6281327441039']
-global.premium = ['6281327441039']
-global.pembeli = ['6281327441039', '6283111532238']
+global.owner = ['6285813708397', '6282230819722']
+global.bsu = ['6285813708397']
+global.premium = ['6285813708397']
+global.pembeli = ['6285813708397', '6283111532238']
 global.packname = 'DarkBotMD'
 global.author = 'Mr_Dark'
 global.sessionName = 'session'
