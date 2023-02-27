@@ -36,7 +36,7 @@ global.mess = {
     private: 'Fitur Digunakan Hanya Untuk Private Chat!',
     bot: 'Fitur Khusus Pengguna Nomor Bot',
     wait: 'Loading...',
-    pembeli: "*Fitur premium user only *⚠️\nbeli premium dengan harga *15k* via pulsa, atau *11k* via ovo\ncontact: 081327441039 ✅",
+    pembeli: "*Fitur premium user only *⚠️\nbeli premium dengan harga *15k* via pulsa, atau *11k* via ovo\ncontact: 085813708397 ✅",
     endLimit: 'Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12, atau beli premium dengan harga *15k* via pulsa, atau *11k* via ovo',
 }
 global.limitawal = {
